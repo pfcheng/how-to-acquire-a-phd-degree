@@ -25,7 +25,7 @@
 
 #### Literature Survey
 
-之前修AMMAI的經驗給我的啟發是，[每周看論文寫摘要](https://pojenlai.wordpress.com/category/ammai/page/2/)是可行的，而且對某個領域的領悟會進步神速。
+之前修[AMMAI](http://www.csie.ntu.edu.tw/~winston/courses/ammai/)的經驗給我的啟發是，[每周看論文寫摘要](https://pojenlai.wordpress.com/category/ammai/page/2/)是可行的，而且對某個領域的領悟會進步神速。
 
 這邊有許多東西可以學習，但我列出最重要的三點:
 
