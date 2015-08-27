@@ -1,5 +1,5 @@
 ## 1. Introduction
-/This document is intended for people applying to Ph.D. programs in computer
+<br />This document is intended for people applying to Ph.D. programs in computer
 science or related areas. The document is informal in nature and is meant to express
 only the opinions of the author. The author is a professor of computer science
 at CMU, and has been involved in the Ph.D. admissions process at CMU, U.C.
